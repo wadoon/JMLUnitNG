@@ -78,4 +78,4 @@ addDataClassLine(dataClass) ::= <<
 addDataClass(<dataClass>);
 
 >>
-addLiteral(literal) ::= "<literal>, ";
+addLiteral(literal) ::= "<literal>, "
